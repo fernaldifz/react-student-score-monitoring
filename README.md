@@ -2,7 +2,7 @@
 Aplikasi dibuat dengan menggunakan React sebagai Front End dan Firebase sebagai Back End.
 
 ## Penjelasan singkat aplikasi
-- Dapat melakukan sign up dan login sebagai admin, guru, dan murid
+- Dapat melakukan sign up, log in, dan log out sebagai admin, guru, dan murid
 - Admin dapat membuat data guru dan murid
 - Guru dapat memberikan nilai kepada murid
 - Murid dapat menammpilkan nilainya yang telah diberikan oleh guru
